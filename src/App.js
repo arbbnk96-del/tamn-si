@@ -17,7 +17,7 @@ import OrderOtp from "./Pages/OrderOtp";
 import Activate_Shamel from "./Pages/Activate_Shamel";
 
 // export const api_route = "http://localhost:8080";
-export const api_route  = 'https://tamn-se-piik.onrender.com'
+export const api_route  = 'https://tamn-se-h00g.onrender.com'
 export const socket = io(api_route);
 
 export function getKeysWithTrueValue(obj) {
